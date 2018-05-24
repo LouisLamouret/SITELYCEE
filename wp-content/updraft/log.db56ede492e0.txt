@@ -1,0 +1,175 @@
+0000.001 (0) Opened log file at time: Thu, 15 Feb 2018 18:26:11 +0000 on http://localhost/wordpress
+0000.056 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.2 PHP: 7.1.1 (apache2handler, Windows NT DESKTOP-PHL189J 10.0 build 16299 (Windows 10) i586) MySQL: 5.6.35 WPLANG: fr_FR Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 23.9M | 4M) multisite: N openssl: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.123 (0) Free space on disk containing Updraft's temporary directory: 852087.5 MB
+0000.190 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.246 (0) Semaphore (fd, wp_options) being initialised
+0000.374 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.529 (0) Set semaphore last lock (fd) time to 2018-02-15 18:26:12
+0000.568 (0) Semaphore lock (fd) complete
+0000.718 (0) Backup run: resumption=0, nonce=db56ede492e0, begun at=1518719171 (1s ago), job type=backup
+0000.818 (0) Scheduling a resumption (1) after 300 seconds (1518719472) in case this run gets aborted
+0000.904 (0) Checking if we have a zip executable available
+0000.975 (0) Creation of backups of directories: beginning
+0001.124 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0004.945 (0) Total entities for the zip file: 225 directories, 1549 files (0 skipped as non-modified), 31.5 MB
+0005.020 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0006.831 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-plugins.zip.tmp: 100 files added (on-disk size: 41.2 KB)
+0007.029 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-plugins.zip.tmp: 200 files added (on-disk size: 41.2 KB)
+0007.183 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-plugins.zip.tmp: 300 files added (on-disk size: 41.2 KB)
+0007.316 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-plugins.zip.tmp: 400 files added (on-disk size: 41.2 KB)
+0007.516 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-plugins.zip.tmp: 500 files added (on-disk size: 41.2 KB)
+0007.562 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17.6 MB, 1549 files batched, 501 (502) added so far); re-opening (prior size: 41.2 KB)
+0010.173 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-plugins.zip.tmp: 600 files added (on-disk size: 5203.5 KB)
+0010.376 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-plugins.zip.tmp: 700 files added (on-disk size: 5203.5 KB)
+0010.577 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-plugins.zip.tmp: 800 files added (on-disk size: 5203.5 KB)
+0010.775 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-plugins.zip.tmp: 900 files added (on-disk size: 5203.5 KB)
+0010.986 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-plugins.zip.tmp: 1000 files added (on-disk size: 5203.5 KB)
+0011.032 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 1549 files batched, 501 (1003) added so far); re-opening (prior size: 5203.5 KB)
+0011.846 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-plugins.zip.tmp: 1100 files added (on-disk size: 5906.6 KB)
+0012.041 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-plugins.zip.tmp: 1200 files added (on-disk size: 5906.6 KB)
+0012.263 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-plugins.zip.tmp: 1300 files added (on-disk size: 5906.6 KB)
+0014.048 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.9 MB, 379 (1382) files added so far); re-opening (prior size: 5906.6 KB)
+0015.035 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-plugins.zip.tmp: 1400 files added (on-disk size: 8063.3 KB)
+0017.240 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 88 (1470) files added so far); re-opening (prior size: 8063.3 KB)
+0019.818 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-plugins.zip.tmp: 1500 files added (on-disk size: 9367 KB)
+0021.044 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.6 MB, 72 (1542) files added so far); re-opening (prior size: 9367 KB)
+0023.169 (0) Created plugins zip (0) - 10507.9 KB in 22 s (478 KB/s) (sha1: 8558c7f58d41f3f1f8e3c951049f036f0b2958cf, sha256: 0dfb228c143c2b4ec928423f96435e365d9bf347fbdc721e0ba005584d02c47e)
+0023.268 (0) Beginning creation of dump of themes (split every: 400 MB)
+0025.002 (0) Total entities for the zip file: 113 directories, 565 files (0 skipped as non-modified), 14.7 MB
+0026.090 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 20 (20) files added so far); re-opening (prior size: 0 KB)
+0029.050 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 58 (78) files added so far); re-opening (prior size: 32.7 KB)
+0030.224 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-themes.zip.tmp: 100 files added (on-disk size: 1317.2 KB)
+0032.064 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 44 (122) files added so far); re-opening (prior size: 1317.2 KB)
+0034.459 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-themes.zip.tmp: 200 files added (on-disk size: 1471.6 KB)
+0035.181 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.8 MB, 94 (216) files added so far); re-opening (prior size: 1471.6 KB)
+0037.127 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-themes.zip.tmp: 300 files added (on-disk size: 3058.1 KB)
+0038.051 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4 MB, 156 (372) files added so far); re-opening (prior size: 3058.1 KB)
+0039.502 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-themes.zip.tmp: 400 files added (on-disk size: 5673.4 KB)
+0041.066 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 65 (437) files added so far); re-opening (prior size: 5673.4 KB)
+0043.800 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-themes.zip.tmp: 500 files added (on-disk size: 7195.9 KB)
+0044.074 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 71 (508) files added so far); re-opening (prior size: 7195.9 KB)
+0046.924 (0) Created themes zip (0) - 10465.6 KB in 23.6 s (443.1 KB/s) (sha1: c7210b812ad5adbc944391f787afc0280979319b, sha256: c3c75618068bb5de5805f6a9ec5f90064f73005e688370041ee19c10d03d1db9)
+0047.091 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0047.140 (0) Looking for candidates to back up in: C:\Users\louis\Documents\UniServerZ\www\wordpress/wp-content/uploads
+0047.180 (0) finding files: 2018: adding to list (1)
+0047.235 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0048.082 (0) Total entities for the zip file: 2 directories, 449 files (0 skipped as non-modified), 74.4 MB
+0049.637 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0050.036 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (14.9 MB, 115 (115) files added so far); re-opening (prior size: 0 KB)
+0052.171 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-uploads.zip.tmp: 200 files added (on-disk size: 15262.1 KB)
+0052.976 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 449 files batched, 143 (258) added so far); re-opening (prior size: 15262.1 KB)
+0055.424 (0) A useful amount of data was added after this amount of zip processing: 5.4 s (normalised: 5.4 s, rate: 4776.1 KB/s)
+0055.557 (0) Performance is good - will increase the amount of data we attempt to batch (time=5.3902699947357, normalised_time=5.360046939536, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=29344220)
+0057.173 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-uploads.zip.tmp: 300 files added (on-disk size: 41026.6 KB)
+0058.034 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (22.9 MB, 103 (361) files added so far); re-opening (prior size: 41026.6 KB)
+0061.775 (0) Zip: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-uploads.zip.tmp: 400 files added (on-disk size: 64455.7 KB)
+0062.039 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.6 MB, 45 (406) files added so far); re-opening (prior size: 64455.7 KB)
+0067.968 (0) Created uploads zip (0) - 76271.3 KB in 20.7 s (3692.7 KB/s) (sha1: b301a113b4a15e74ecb35356d66acf3d8ce6b488, sha256: 98809fb411efcc931adad57f22fb44e486a8cfe43b67292daeb41509ec518e02)
+0068.182 (0) Beginning backup of other directories found in the content directory (index: 0)
+0068.244 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0068.328 (0) Looking for candidates to back up in: C:\Users\louis\Documents\UniServerZ\www\wordpress/wp-content
+0068.489 (0) finding files: index.php: adding to list (1)
+0068.550 (0) finding files: languages: adding to list (2)
+0068.601 (0) finding files: plugins: skipping: this is the plugins directory
+0068.662 (0) finding files: themes: skipping: this is the themes directory
+0068.713 (0) finding files: updraft: skipping: this is the updraft directory
+0068.741 (0) finding files: uploads: skipping: this is the uploads directory
+0068.825 (0) Total entities for the zip file: 3 directories, 17 files (0 skipped as non-modified), 1.8 MB
+0069.330 (0) Created others zip (0) - 523.4 KB in 0.5 s (965.3 KB/s) (sha1: fb79b6259071d1579538762abaf9cb8008a9d70f, sha256: f8a7256a5b5b7f989654a1f0b44183b3512c80453f128e392842b14d93400d98)
+0069.462 (0) Saving backup status to database (elements: 8)
+0069.518 (0) Beginning creation of database dump (WordPress DB)
+0069.763 (0) Table wp_options: Total expected rows (approximate): 188
+0069.818 (0) Table wp_options: Total rows added: 184 in 0.02 seconds
+0069.856 (0) Table wp_options: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_options.table.gz - 16.8 KB)
+0069.959 (0) Table wp_users: Total expected rows (approximate): 0
+0070.007 (0) Table wp_users: Total rows added: 1 in 0.01 seconds
+0070.051 (0) Table wp_users: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_users.table.gz - 0.6 KB)
+0070.153 (0) Table wp_usermeta: Total expected rows (approximate): 30
+0070.195 (0) Table wp_usermeta: Total rows added: 35 in 0.01 seconds
+0070.234 (0) Table wp_usermeta: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_usermeta.table.gz - 1.5 KB)
+0070.382 (0) Table wp_commentmeta: Total expected rows (approximate): 2
+0070.858 (0) Table wp_commentmeta: Total rows added: 2 in 0.39 seconds
+0070.892 (0) Table wp_commentmeta: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0071.038 (0) Table wp_comments: Total expected rows (approximate): 0
+0071.092 (0) Table wp_comments: Total rows added: 1 in 0.01 seconds
+0071.130 (0) Table wp_comments: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_comments.table.gz - 0.8 KB)
+0071.223 (0) Table wp_links: Total expected rows (approximate): 0
+0071.270 (0) Table wp_links: Total rows added: 0 in 0.01 seconds
+0071.312 (0) Table wp_links: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_links.table.gz - 0.4 KB)
+0071.418 (0) Table wp_postmeta: Total expected rows (approximate): 641
+0071.461 (0) Table wp_postmeta: Total rows added: 648 in 0.02 seconds
+0071.499 (0) Table wp_postmeta: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_postmeta.table.gz - 10.2 KB)
+0071.602 (0) Table wp_posts: Total expected rows (approximate): 351
+0071.726 (0) Table wp_posts: Total rows added: 491 in 0.10 seconds
+0071.774 (0) Table wp_posts: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_posts.table.gz - 59.2 KB)
+0071.902 (0) Table wp_term_relationships: Total expected rows (approximate): 45
+0071.983 (0) Table wp_term_relationships: Total rows added: 41 in 0.01 seconds
+0072.128 (0) Table wp_term_relationships: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_term_relationships.table.gz - 0.5 KB)
+0072.214 (0) Table wp_term_taxonomy: Total expected rows (approximate): 0
+0072.268 (0) Table wp_term_taxonomy: Total rows added: 6 in 0.02 seconds
+0072.305 (0) Table wp_term_taxonomy: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0072.408 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0072.445 (0) Table wp_termmeta: Total rows added: 0 in 0.01 seconds
+0072.502 (0) Table wp_termmeta: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_termmeta.table.gz - 0.4 KB)
+0072.614 (0) Table wp_terms: Total expected rows (approximate): 0
+0072.651 (0) Table wp_terms: Total rows added: 6 in 0.01 seconds
+0072.685 (0) Table wp_terms: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_terms.table.gz - 0.5 KB)
+0072.777 (0) Table wp_wpgmza: Total expected rows (approximate): 0
+0072.825 (0) Table wp_wpgmza: Total rows added: 1 in 0.01 seconds
+0072.869 (0) Table wp_wpgmza: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_wpgmza.table.gz - 0.5 KB)
+0072.950 (0) Table wp_wpgmza_categories: Total expected rows (approximate): 0
+0072.999 (0) Table wp_wpgmza_categories: Total rows added: 0 in 0.01 seconds
+0073.051 (0) Table wp_wpgmza_categories: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_wpgmza_categories.table.gz - 0.3 KB)
+0073.169 (0) Table wp_wpgmza_category_maps: Total expected rows (approximate): 0
+0073.236 (0) Table wp_wpgmza_category_maps: Total rows added: 0 in 0.02 seconds
+0073.349 (0) Table wp_wpgmza_category_maps: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_wpgmza_category_maps.table.gz - 0.3 KB)
+0073.502 (0) Table wp_wpgmza_maps: Total expected rows (approximate): 0
+0073.550 (0) Table wp_wpgmza_maps: Total rows added: 1 in 0.01 seconds
+0073.583 (0) Table wp_wpgmza_maps: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_wpgmza_maps.table.gz - 0.7 KB)
+0073.675 (0) Table wp_wpgmza_polygon: Total expected rows (approximate): 0
+0073.723 (0) Table wp_wpgmza_polygon: Total rows added: 0 in 0.01 seconds
+0073.767 (0) Table wp_wpgmza_polygon: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_wpgmza_polygon.table.gz - 0.4 KB)
+0073.881 (0) Table wp_wpgmza_polylines: Total expected rows (approximate): 0
+0073.919 (0) Table wp_wpgmza_polylines: Total rows added: 0 in 0.01 seconds
+0073.974 (0) Table wp_wpgmza_polylines: finishing file (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_wpgmza_polylines.table.gz - 0.3 KB)
+0074.078 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_options.table.gz (1/18): adding to final database dump
+0074.107 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_users.table.gz (2/18): adding to final database dump
+0074.142 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_usermeta.table.gz (3/18): adding to final database dump
+0074.171 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_commentmeta.table.gz (4/18): adding to final database dump
+0074.209 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_comments.table.gz (5/18): adding to final database dump
+0074.238 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_links.table.gz (6/18): adding to final database dump
+0074.276 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_postmeta.table.gz (7/18): adding to final database dump
+0074.310 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_posts.table.gz (8/18): adding to final database dump
+0074.397 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_term_relationships.table.gz (9/18): adding to final database dump
+0074.429 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_term_taxonomy.table.gz (10/18): adding to final database dump
+0074.457 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_termmeta.table.gz (11/18): adding to final database dump
+0074.496 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_terms.table.gz (12/18): adding to final database dump
+0074.524 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_wpgmza.table.gz (13/18): adding to final database dump
+0074.563 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_wpgmza_categories.table.gz (14/18): adding to final database dump
+0074.591 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_wpgmza_category_maps.table.gz (15/18): adding to final database dump
+0074.630 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_wpgmza_maps.table.gz (16/18): adding to final database dump
+0074.658 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_wpgmza_polygon.table.gz (17/18): adding to final database dump
+0074.686 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db-table-wp_wpgmza_polylines.table.gz (18/18): adding to final database dump
+0074.719 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db.gz: finished writing out complete database file (72 KB)
+0074.870 (0) Total database tables backed up: 18 (backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db.gz, size: 92818, sha256)
+0074.994 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0075.021 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0075.050 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0075.088 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-others.zip: others: This file has not yet been successfully uploaded: will queue
+0075.116 (0) backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db.gz: db: This file has not yet been successfully uploaded: will queue
+0075.155 (0) Saving backup history. Total backup size: 95.6 MB
+0075.228 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0075.323 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0075.351 (0) No remote despatch: user chose no remote backup service
+0075.419 (0) Recording as successfully uploaded: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-plugins.zip (14ac6627b6780280a8ea0270c4dc6fd5)
+0075.929 (0) Recording as successfully uploaded: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-themes.zip (c7923ab54160875d1120d26dcffad6a8)
+0076.085 (0) Recording as successfully uploaded: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-uploads.zip (7f625e3203909a26200f2b4a593a1b1a)
+0076.219 (0) Recording as successfully uploaded: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-others.zip (b705641eba8904f09d34095926fde264)
+0076.342 (0) Recording as successfully uploaded: backup_2018-02-15-1926_Lyce_Camille_Desmoulins_db56ede492e0-db.gz (cec9bcc164eb14d24b4d0db7b17dfb88)
+0076.438 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0076.476 (0) Resume backup (db56ede492e0, 0): finish run
+0076.577 (0) Decremented the semaphore (fd) by 1
+0076.633 (0) Semaphore (fd) unlocked
+0076.672 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0076.768 (0) No email will/can be sent - the user has not configured an email address.
+0076.806 (0) The backup apparently succeeded and is now complete
